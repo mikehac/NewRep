@@ -1,0 +1,3 @@
+I'm a new file.
+I should be merged by new pull request
+Here are some more text
